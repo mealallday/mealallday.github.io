@@ -1,0 +1,88 @@
+body .hm-gradient .full-bg-img {
+  background: linear-gradient(45deg, #dcdc19, #d8d84a, #dada11 100%) !important;
+}
+body .navbar.navbar-dark .breadcrumb .nav-item .nav-link,
+body .navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+  color: black !important;
+  font-weight: 400 !important;
+  text-align: center !important;
+}
+body .navbar.navbar-dark .breadcrumb .nav-item .nav-link,
+body .navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
+  border-top: 3px #ff6705 solid;
+  transition: 0.1s;
+  color: white !important;
+}
+body .top-nav-collapse {
+  background-color: rgba(216, 216, 67, 0.69) !important;
+}
+body .titulo {
+  text-shadow: 2px 4px 4px #555;
+  font-weight: 900;
+  font-size: 40px;
+}
+body #logo {
+  max-width: 12%;
+}
+body .DuFesta {
+  color: #e3fc01;
+  font-family: 'Archivo Black', sans-serif;
+}
+body .DuFesta:hover {
+  color: #ff6705;
+  transition: 0.4s;
+}
+body .deep-purple.lighten-1 {
+  background-color: #c00812 !important;
+}
+body .teal.lighten-1 {
+  background-color: #ba007d !important;
+}
+body .light-blue.lighten-1 {
+  background-color: #019bd9 !important;
+}
+body .indigo.darken-1 {
+  background-color: #d8d850 !important;
+}
+body .indigo.darken-1 h2 {
+  text-shadow: 2px 4px 4px #555 !important;
+}
+body #contatoCentro {
+  background: linear-gradient(45deg, #dcdc19, #d8d84a, #dada11 100%) !important;
+}
+body .icone-social {
+  width: 10%;
+}
+body .container-fluid {
+  padding: 0px !important;
+}
+body .container-fluid .mapaContato {
+  padding-top: 20px;
+}
+body .container-fluid .nav-tabs .nav-link {
+  font-weight: 600 !important;
+}
+body .indigo.darken-2 {
+  background-color: #d9d939 !important;
+}
+body .mapa {
+  padding-right: 0px !important;
+}
+body .setas-carrosel {
+  padding: 15px;
+  margin-left: 10px;
+  border-radius: 80px;
+  background-color: #959e04 !important;
+}
+body .img-carrosel {
+  width: 100%;
+  height: 30em;
+}
+body .historia {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+}
+body #team .grey-text {
+  margin-bottom: 0.4rem !important;
+}
