@@ -68,6 +68,14 @@ body .indigo.darken-2 {
 body .mapa {
   padding-right: 0px !important;
 }
+body #insta:hover {
+  transition: 0.6s;
+  color: orange;
+}
+body #zap:hover {
+  transition: 0.6s;
+  color: green;
+}
 body .setas-carrosel {
   padding: 15px;
   margin-left: 10px;
